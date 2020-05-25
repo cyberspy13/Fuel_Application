@@ -1,0 +1,7 @@
+C:\Users\mlecari\source\repos\FuelCost\FuelCost\bin\Debug\FuelCost.exe.config
+C:\Users\mlecari\source\repos\FuelCost\FuelCost\bin\Debug\FuelCost.exe
+C:\Users\mlecari\source\repos\FuelCost\FuelCost\bin\Debug\FuelCost.pdb
+C:\Users\mlecari\source\repos\FuelCost\FuelCost\obj\Debug\FuelCost.csprojAssemblyReference.cache
+C:\Users\mlecari\source\repos\FuelCost\FuelCost\obj\Debug\FuelCost.csproj.CoreCompileInputs.cache
+C:\Users\mlecari\source\repos\FuelCost\FuelCost\obj\Debug\FuelCost.exe
+C:\Users\mlecari\source\repos\FuelCost\FuelCost\obj\Debug\FuelCost.pdb
